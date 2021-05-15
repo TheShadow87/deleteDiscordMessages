@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Undiscord - Delete all messages in a Discord channel or DM (Bulk deletion)
+// @name          The Shadow
 // @description   Extends the discord interface so you can mass delete messages from discord
 // @namespace     https://github.com/victornpb/deleteDiscordMessages
 // @version       4.2
